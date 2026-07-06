@@ -29,7 +29,7 @@ app.use(cookieParser());
 
 // app.use(limiter);
 
-app.use("/auth/", authRoutes);
+app.use("/api/auth/", authRoutes);
 app.use("/api/", usageRoutes);
 
 app.get("/hello", (req, res) => {

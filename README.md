@@ -41,6 +41,21 @@ A production-ready REST API built with **Node.js**, **Express.js**, and **MongoD
 
 ---
 
+## Scripts
+
+```bash
+npm run dev
+```
+
+Runs the development server.
+
+```bash
+npm start
+```
+
+Runs the production server.
+
+
 ## Project Structure
 
 ```text
@@ -195,20 +210,6 @@ The API can be tested using:
 * Thunder Client
 
 ---
-
-## Scripts
-
-```bash
-npm run dev
-```
-
-Runs the development server.
-
-```bash
-npm start
-```
-
-Runs the production server.
 
 ## License
 
